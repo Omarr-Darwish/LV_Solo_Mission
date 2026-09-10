@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB1.GBR   9/9/2026  2:58:39 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                L1 SIGNAL                               
+.gbr                L2(GND)                                 
+.gbr                IL3 GND                                 
+.gbr                L4 SIGNAL                               
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Mechanical 1                            
+.gbr                Top Assembly                            
+.gbr                Top Designator                          
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Bottom Courtyard                        
+.gbr                Top Component Center                    
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
